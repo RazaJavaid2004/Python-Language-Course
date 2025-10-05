@@ -1,6 +1,6 @@
 # 🐍 Python Language Course – CodeWithHarry (Practice Repository)
 
-This repository contains hands-on Python practice files aligned with the [CodeWithHarry Python Course](https://www.youtube.com/@CodeWithHarry). It is structured for learners, contributors, and recruiters to explore Python fundamentals through modular examples and mini-projects.
+This repository contains hands-on Python practice files aligned with the [CodeWithHarry](https://www.youtube.com/@CodeWithHarry) Python Course. It is structured for learners, contributors, and recruiters to explore Python fundamentals through modular examples and mini-projects.
 
 ---
 
